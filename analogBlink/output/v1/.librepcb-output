@@ -1,0 +1,13 @@
+assembly/prueba1_v1_BOM_Std.csv | d8ef6ef9-a033-490d-ba30-d2f88d358a7f
+gerber/prueba1_v1_COPPER-BOTTOM.gbr | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_COPPER-TOP.gbr | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_DRILLS-NPTH.drl | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_DRILLS-PTH.drl | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_OUTLINES.gbr | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_SILKSCREEN-BOTTOM.gbr | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_SILKSCREEN-TOP.gbr | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_SOLDERMASK-BOTTOM.gbr | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_SOLDERMASK-TOP.gbr | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_SOLDERPASTE-BOTTOM.gbr | ee247fad-b791-4868-a75f-133e2f653ce6
+gerber/prueba1_v1_SOLDERPASTE-TOP.gbr | ee247fad-b791-4868-a75f-133e2f653ce6
+prueba1_v1_Schematic.pdf | f4fb933d-573e-489e-980d-8f89ef493b7f
