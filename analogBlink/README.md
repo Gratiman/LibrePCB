@@ -1,10 +1,8 @@
-# prueba1
+# blinkAnalog
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) project!
-Just edit this file to add a description about it.
-
+PCB with a blink LED using a schmitt trigger gate instead of a microcontroller
 ## License
 
 No license set.
