@@ -1,0 +1,18 @@
+# LibrePCB First Project
+
+This project was created as part of my initial hands-on experience with LibrePCB.
+
+## Description
+Basic PCB project including:
+- Schematic design
+- Component placement
+- PCB layout
+
+## Purpose
+To learn and validate the complete workflow in LibrePCB:
+- Library/component usage
+- Routing
+- Design structure
+
+## Notes
+This is a learning project, but it reflects my ability to quickly adopt new EDA tools based on my prior PCB design experience.
